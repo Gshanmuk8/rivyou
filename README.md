@@ -4,7 +4,7 @@ I wanted the list to be useful when someone opens a random row and asks, “How 
 
 The result is **[outputs/stores.csv](outputs/stores.csv)**, with the same rows in **[JSON](outputs/stores.json)**. Each accepted store has saved evidence for both a Shopify storefront and an Indian business address.
 
-**Public snapshot explorer:** [gshanmuk8.github.io/rivyou](https://gshanmuk8.github.io/rivyou/) · [GitHub repository](https://github.com/Gshanmuk8/rivyou). The published explorer is a read-only view of the checked-in snapshot; it supports search, filters, store details, evidence, and downloads. Collection and review controls run in the local Python workbench below.
+**Public snapshot explorer:** [Vercel](https://rivyou-kohl.vercel.app/) · [GitHub Pages](https://gshanmuk8.github.io/rivyou/) · [GitHub repository](https://github.com/Gshanmuk8/rivyou). The published explorer is a read-only view of the checked-in snapshot; it supports search, filters, store details, evidence, and downloads. Collection and review controls run in the local Python workbench below.
 
 <!-- RESULT_START -->
 **1,033 automatically verified stores from 2,339 candidate domains, after deduplication.** Snapshot `96232f7c659ca586`, made on 30 September 2026. Both checks passed for every exported store. This is an automated result, not an independently audited accuracy claim.
@@ -229,4 +229,4 @@ At 10× the target, loading/projecting the whole SQLite dataset for each UI requ
 
 The current parser is mostly English-language and uses a limited city map. It can miss businesses with only image addresses, headless storefronts or nonstandard markup. It cannot prove a site's business claims are truthful. Broader source coverage, official address validation and an independent sampled review would be the next investments.
 
-The code and snapshot are in this public repo, and the read-only viewer is published on GitHub Pages. Render and Vercel can build that same viewer from the files above. The local workbench is still the place to run a new crawl or record a review.
+The code and snapshot are in this public repo. The read-only viewer is published on Vercel and GitHub Pages; Render can build the same viewer from the files above. The local workbench is still the place to run a new crawl or record a review.
