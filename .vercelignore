@@ -1,0 +1,17 @@
+# The public deployment is built from the snapshot, not the local workbench.
+work/
+site_dist/
+.venv/
+.pytest_cache/
+.ruff_cache/
+.github/
+render.yaml
+docs/
+data/
+tests/
+pyproject.toml
+requirements.lock
+start.ps1
+src/rivyou/*.py
+src/rivyou/static/app.css
+src/rivyou/static/app.js
