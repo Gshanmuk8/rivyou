@@ -15,7 +15,7 @@
 
 ## Data delivery
 
-Local delivery is complete: **1,033 accepted stores from 2,339 candidates**, snapshot `96232f7c659ca586`. The result files are `outputs/stores.csv` and `outputs/stores.json`. The README contains final missingness and timing tables. A 30-store agent review and 27 targeted address reviews are documented in `docs/DATA_REVIEW.md`. No candidate remains queued and no collection is active.
+The submitted snapshot has **1,033 accepted stores from 2,339 candidates**, snapshot `96232f7c659ca586`. The result files are `outputs/stores.csv` and `outputs/stores.json`. The README contains final missingness and timing tables. A 30-store agent review and 27 targeted address reviews are documented in `docs/DATA_REVIEW.md`. No candidate remains queued and no collection is active.
 
 The broader pilot is complete: 288 new candidates, 124 initial automated accepts before deduplication/enrichment, in 519.5 seconds. Saved reports in `data/discovery/` document the measured source and pilot decisions. The expanded batches used these findings; their actual run history is included in the final report.
 
@@ -29,7 +29,7 @@ The broader pilot is complete: 288 new candidates, 124 initial automated accepts
 
 ## Remaining boundaries
 
-- This is a local delivery. Public GitHub publication and sending the application are outside the latest instruction and have not been done.
+- The public GitHub repo and read-only snapshot viewer are published. The crawler and review workbench still run locally; `render.yaml` and `vercel.json` prepare the viewer for those static hosts.
 - The automated result and any agent spot-check are not an independent human accuracy audit. The audit sample remains available for one.
 - No WHOIS/RDAP, OCR, browser-rendered merchant crawl, government address lookup or AI classifier is used. No Supabase or AI key is required.
 - The app is local, single-user and unauthenticated. Its server binds to loopback.

@@ -18,6 +18,8 @@ const coverageKeys = ["emails", "phones", "socials", "category", "description", 
 const hasValue = (value) => Array.isArray(value) ? value.length > 0 : value && typeof value === "object" ? Object.keys(value).length > 0 : Boolean(value);
 const coverage = (store) => coverageKeys.filter((key) => hasValue(store[key])).length;
 const fmt = (value) => Number(value).toLocaleString("en-IN");
+const snapshotId = document.querySelector('meta[name="snapshot-id"]').content;
+const versioned = (path) => `${path}?v=${encodeURIComponent(snapshotId)}`;
 const state = { stores: [], report: null, query: "", category: "", region: "", sort: "name", page: 1, pageSize: 18, currentId: null };
 
 function logo(store) {
@@ -97,7 +99,7 @@ async function openDetail(storeId) {
   body.innerHTML = `<div class="detail-heading">${logo(store)}<div><h2>${escapeHtml(nameOf(store))}</h2>${link(store.domain_url, "Visit store")}</div></div><div class="detail-status"><span>✓ Shopify storefront</span><span>✓ Indian business evidence</span><span>${coverage(store)}/7 fields present</span><span>Observed ${escapeHtml(store.observed_at.slice(0, 10))}</span></div>${store.description ? `<blockquote class="detail-description">“${escapeHtml(store.description)}”</blockquote>` : ""}<div class="detail-grid"><div class="detail-block"><h3>Category</h3>${valuesHtml(store.category, "category")}</div><div class="detail-block"><h3>Indian state</h3>${valuesHtml(store.state, "state")}</div><div class="detail-block"><h3>Email contacts</h3>${valuesHtml(store.emails, "emails")}</div><div class="detail-block"><h3>Phone contacts</h3>${valuesHtml(store.phones, "phones")}</div><div class="detail-block"><h3>Social profiles</h3>${valuesHtml(store.socials, "socials")}</div><div class="detail-block"><h3>Brand logo</h3>${store.logo_url ? link(store.logo_url, "View original image") : "<p>Not found in the allowed pages.</p>"}</div></div><section class="detail-evidence"><h3>Source evidence</h3><div class="loading" id="evidence-list">Loading merchant page evidence…</div></section>`;
   if (!dialog.open) dialog.showModal();
   try {
-    const response = await fetch(`data/evidence/${encodeURIComponent(storeId)}.json`);
+    const response = await fetch(versioned(`data/evidence/${encodeURIComponent(storeId)}.json`));
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const record = await response.json();
     if (state.currentId !== storeId) return;
@@ -140,7 +142,7 @@ $("#next").addEventListener("click", () => { state.page++; renderStores(); $("#d
 
 async function init() {
   try {
-    const [storesResponse, reportResponse] = await Promise.all([fetch("data/stores.json"), fetch("data/run-report.json")]);
+    const [storesResponse, reportResponse] = await Promise.all([fetch(versioned("data/stores.json")), fetch(versioned("data/run-report.json"))]);
     if (!storesResponse.ok || !reportResponse.ok) throw new Error("Snapshot files were not available.");
     state.stores = await storesResponse.json();
     state.report = await reportResponse.json();

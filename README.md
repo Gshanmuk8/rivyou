@@ -1,11 +1,13 @@
-# Rivyou — Indian Shopify store discovery
+# Indian Shopify stores — Rivyou assignment
 
-A local pipeline and a browser workbench for finding Indian Shopify stores. The result file is **[outputs/stores.csv](outputs/stores.csv)**, with the same records in **[JSON](outputs/stores.json)**. Every accepted store has saved evidence for both Shopify and an Indian business address.
+I wanted the list to be useful when someone opens a random row and asks, “How do you know?” Public store lists were a good starting point, but they also contained dead sites, foreign businesses and stores that no longer showed Shopify evidence. I built a small crawler that checks the merchant's own pages, saves what it found and leaves uncertain cases out of the result.
+
+The result is **[outputs/stores.csv](outputs/stores.csv)**, with the same rows in **[JSON](outputs/stores.json)**. Each accepted store has saved evidence for both a Shopify storefront and an Indian business address.
 
 **Public snapshot explorer:** [gshanmuk8.github.io/rivyou](https://gshanmuk8.github.io/rivyou/) · [GitHub repository](https://github.com/Gshanmuk8/rivyou). The published explorer is a read-only view of the checked-in snapshot; it supports search, filters, store details, evidence, and downloads. Collection and review controls run in the local Python workbench below.
 
 <!-- RESULT_START -->
-**1,033 automatically verified stores from 2,339 candidate domains, after deduplication.** Snapshot `96232f7c659ca586`, generated 2026-09-30T14:02:04.213712+00:00. Both required checks passed for every exported store. The result has not had an independent human audit.
+**1,033 automatically verified stores from 2,339 candidate domains, after deduplication.** Snapshot `96232f7c659ca586`, made on 30 September 2026. Both checks passed for every exported store. This is an automated result, not an independently audited accuracy claim.
 <!-- RESULT_END -->
 
 ![Store explorer](docs/images/workbench.png)
@@ -31,9 +33,20 @@ py -3.12 -m venv .venv
 
 The app lets you import domains, collect pages, pause and resume runs, search/filter stores, inspect evidence, record review notes, and download results. A finished queue means the known domains have been processed. Import another source to continue; it does not mean the existing result was lost.
 
-The public explorer is built by `python scripts/build_site.py` and deployed from `site_dist/` with the GitHub Pages workflow in `.github/workflows/pages.yml`. The builder checks every snapshot checksum and record count, then makes one small evidence file per store so opening a record does not load the entire evidence archive. `site_dist/` is generated and ignored by Git. GitHub Pages hosts static files; the original pipeline remains runnable locally.
+The public explorer is built by `python scripts/build_site.py` and deployed from `site_dist/` with the GitHub Pages workflow in `.github/workflows/pages.yml`. The builder checks the snapshot checksums and row count, then writes one evidence file per store so the browser only loads the record you open. `site_dist/` is generated and ignored by Git.
 
-## What to submit
+## Deploy the public viewer
+
+The repo includes settings for [Render static sites](https://render.com/docs/blueprint-spec) and [Vercel](https://vercel.com/docs/project-configuration/vercel-json). Connect this repository on the `main` branch and keep the repository root as the project root:
+
+| Host | What to select | Build command | Publish/output directory |
+| --- | --- | --- | --- |
+| Render | Static site; `render.yaml` also works as a Blueprint | `python3 scripts/build_site.py` | `site_dist` |
+| Vercel | Import the repo; `vercel.json` selects Other | `python3 scripts/build_site.py` | `site_dist` |
+
+No API key, Supabase project or environment variable is needed for this viewer. Check the deployed homepage, a store's evidence drawer and `/data/stores.csv` after the first build. These settings publish the saved dataset; the collection/review workbench uses a local SQLite database and is run with the Python commands above.
+
+## Files in this repo
 
 | File | What it contains |
 | --- | --- |
@@ -86,7 +99,7 @@ For smaller runs:
 
 An interrupted or paused collection/enrichment/full replay can be resumed with `collect --resume RUN_ID`; its original operation and configuration are restored. After computer suspension, confirm that the original runner has exited before resuming: the current two-minute heartbeat timeout can mark a still-live process as interrupted. Durable process leases are a remaining limitation. Browser pause requests also reach CLI workers through SQLite. `reprocess --offline` uses saved pages and cached logos, preserving their original observation dates. It makes no merchant requests. `--processes 3` uses three CPU processes for this offline step; omit it on a machine with little free memory.
 
-## The approach
+## How I built the list
 
 ### 1. Use sources for leads
 
@@ -200,7 +213,9 @@ The tests cover platform/location counterexamples, address conflicts, logo rejec
 
 The local SQLite database, raw cache and previews live in ignored `work/`. Set `RIVYOU_WORK_DIR` before starting Python to use another local directory. Tests use separate temporary databases and mocked merchant responses. Fixture stores are never added to the real dataset. Raw merchant HTML is not included in the public-ready result; relevant excerpts, source URLs and hashes are included.
 
-## Time and limitations
+## Time spent and limitations
+
+I worked on this across 29–30 September 2026 with coding-agent help. I didn't keep a reliable timer for my own coding and QA hours. The numbers below are wall-clock run spans, and they include pauses.
 
 <!-- TIMING_START -->
 Recorded collection and enrichment run spans total **362.6 minutes**. These are start-to-finish wall-clock spans, including resumed work and host pauses; they are not an active-development timer. The final offline replay took **559.6 minutes** and recorded **0 HTTP responses**. Its elapsed span includes an extended host pause; it is not CPU time. The final narrow rule-8 refinement took **1.6 minutes** with **0 HTTP responses**; earlier development iterations remain in run history. All runs together recorded 15,926 HTTP responses, including robots, redirects, retries and image checks; these are not unique page counts.
@@ -208,10 +223,10 @@ Recorded collection and enrichment run spans total **362.6 minutes**. These are 
 The final status counts are `{"accepted": 1033, "blocked": 602, "duplicate": 30, "review": 638, "unreachable": 36}`. Unresolved, blocked, unreachable and duplicate candidates are retained separately for inspection.
 <!-- TIMING_END -->
 
-Development and QA took place with a coding agent during the 29–30 September 2026 local session. A reliable total active-development timer was not recorded, so there is no invented “built in X hours” claim. No paid discovery API was used. Websites change, so reproducing the same source today may produce different counts.
+No paid discovery API was used. Websites change, so reproducing the same source later may produce different counts.
 
 At 10× the target, loading/projecting the whole SQLite dataset for each UI request becomes wasteful. Move filtering and identity grouping into indexed queries, paginate evidence, and separate UI reads from crawling. At 100×, use a durable host-aware scheduler, shared robots/backoff state, separate crawl/extraction workers and object storage with retention. More workers without shared host limits would make collection less polite.
 
 The current parser is mostly English-language and uses a limited city map. It can miss businesses with only image addresses, headless storefronts or nonstandard markup. It cannot prove a site's business claims are truthful. Broader source coverage, official address validation and an independent sampled review would be the next investments.
 
-This delivery is local. Publishing a public GitHub repository and sending the application are separate steps; neither has been done by this run.
+The code and snapshot are in this public repo, and the read-only viewer is published on GitHub Pages. Render and Vercel can build that same viewer from the files above. The local workbench is still the place to run a new crawl or record a review.

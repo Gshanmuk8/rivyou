@@ -1,9 +1,7 @@
 # Submission note
 
-Result: `outputs/stores.csv` (also `outputs/stores.json`) — 1,033 deduplicated stores that passed the automated Shopify and Indian business-address checks.
+1. **Repo:** [github.com/Gshanmuk8/rivyou](https://github.com/Gshanmuk8/rivyou)
+2. **Result:** [outputs/stores.csv](https://github.com/Gshanmuk8/rivyou/blob/main/outputs/stores.csv) — 1,033 stores. There is a [JSON version](https://github.com/Gshanmuk8/rivyou/blob/main/outputs/stores.json) and a [browser view](https://gshanmuk8.github.io/rivyou/) too.
+3. **Method and time:** I started with public store lists, then checked each merchant site for Shopify signals and an Indian business address. I collected the seven requested field groups and kept the source evidence; uncertain sites stayed out of the CSV. I worked on this over 29–30 September 2026 with coding-agent help. The recorded collection and enrichment runs span about six hours, including pauses. A later offline replay recorded about nine hours because the computer was paused for part of it. I didn't track my active coding hours.
 
-The pipeline starts with attributed public domain leads, then checks the live merchant pages for Shopify identity/runtime/commerce evidence and an Indian business address. It extracts public contacts, socials, category, merchant description, a validated brand image and state, keeping field-level evidence and leaving unsupported values empty.
-
-Recorded collection/enrichment run spans total 362.6 minutes; the final offline replay spanned 559.6 minutes, including an extended host pause. Development and QA were assisted by a coding agent during 29–30 September 2026; total active development time was not measured. No paid discovery API, Supabase or AI API key was used by the pipeline.
-
-The code, README, result files and checks are in the [public GitHub repository](https://github.com/Gshanmuk8/rivyou). The result file is [outputs/stores.csv](https://github.com/Gshanmuk8/rivyou/blob/main/outputs/stores.csv); a [read-only explorer](https://gshanmuk8.github.io/rivyou/) lets reviewers search the snapshot and inspect evidence. The dataset is automatically verified and agent-reviewed where documented, not independently human-audited.
+The 1,033 rows passed the automated checks. An independent human accuracy audit has not been done.

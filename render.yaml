@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: rivyou-dataset-explorer
+    runtime: static
+    buildCommand: python3 scripts/build_site.py
+    staticPublishPath: ./site_dist
+    headers:
+      - path: /
+        name: Cache-Control
+        value: no-cache
+      - path: /index.html
+        name: Cache-Control
+        value: no-cache
