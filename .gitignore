@@ -5,6 +5,7 @@ __pycache__/
 *.egg-info/
 work/
 site_dist/
+.vercel/
 *.sqlite*
 .env
 .DS_Store
