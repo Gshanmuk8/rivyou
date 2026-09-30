@@ -42,6 +42,13 @@ def build() -> None:
     if DEST.exists():
         shutil.rmtree(DEST)
     shutil.copytree(SITE, DEST)
+    html = (DEST / "index.html").read_text(encoding="utf-8")
+    for name, placeholder in (("app.css", "__CSS_VERSION__"), ("app.js", "__JS_VERSION__")):
+        digest = hashlib.sha256((DEST / name).read_bytes()).hexdigest()[:12]
+        if placeholder not in html:
+            raise ValueError(f"Missing asset version placeholder: {placeholder}")
+        html = html.replace(placeholder, digest)
+    (DEST / "index.html").write_text(html, encoding="utf-8")
     (DEST / ".nojekyll").touch()
     assets = DEST / "assets"
     assets.mkdir()
