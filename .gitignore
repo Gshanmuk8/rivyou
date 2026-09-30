@@ -4,6 +4,7 @@ __pycache__/
 .ruff_cache/
 *.egg-info/
 work/
+site_dist/
 *.sqlite*
 .env
 .DS_Store

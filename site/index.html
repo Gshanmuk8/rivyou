@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#146f62">
+  <meta name="description" content="Explore 1,033 Indian Shopify stores with the evidence behind each record.">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; font-src 'self'; img-src 'self' https:; connect-src 'self'; base-uri 'none'; form-action 'none'">
+  <title>Indian Shopify stores · Rivyou research</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="app.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#directory">Skip to directory</a>
+  <div class="shell">
+    <aside class="rail">
+      <div class="rail-top">
+        <a class="brand" href="#top" aria-label="Rivyou research home"><img src="assets/rivyou.svg" alt="Rivyou" width="126" height="52"></a>
+        <div class="workspace-tag"><span class="workspace-glyph">IN</span><span><strong>India discovery</strong><small>Research snapshot</small></span></div>
+      </div>
+      <nav class="rail-nav" aria-label="Page sections">
+        <span class="nav-label">EXPLORE</span>
+        <a class="active" href="#directory"><span>◫</span> Store directory</a>
+        <a href="#quality"><span>◈</span> Data quality</a>
+        <a href="#method"><span>◎</span> Method & sources</a>
+        <a href="#downloads"><span>↓</span> Downloads</a>
+      </nav>
+      <div class="rail-bottom">
+        <div class="rail-note"><span class="note-symbol">✳</span><strong>Every store, a source.</strong><p>Open a record to see what supported its Shopify and India decisions.</p></div>
+        <a class="github-link" href="https://github.com/Gshanmuk8/rivyou" target="_blank" rel="noopener noreferrer">View code on GitHub <span>↗</span></a>
+        <div class="snapshot-status"><span class="pulse"></span><div><strong>Published snapshot</strong><small>30 September 2026</small></div></div>
+      </div>
+    </aside>
+    <main id="top">
+      <header class="topbar"><span>RESEARCH <span class="slash">/</span> INDIAN SHOPIFY STORES</span><a href="https://github.com/Gshanmuk8/rivyou" target="_blank" rel="noopener noreferrer">GitHub ↗</a></header>
+      <div class="content">
+        <section class="hero" aria-labelledby="hero-title">
+          <div class="hero-copy"><div class="eyebrow"><span></span> PUBLIC RESEARCH DATASET <span class="snapshot-pill">SNAPSHOT 96232f7c</span></div><h1 id="hero-title">Indian commerce,<br><em>with evidence.</em></h1><p>Browse Shopify stores with a supported Indian business address. Each record links the result back to the pages and rules that produced it.</p><div class="hero-actions"><a class="button primary" href="#directory">Explore stores <span>↗</span></a><a class="button ghost" href="data/stores.csv" download>Download CSV <span>↓</span></a></div></div>
+          <div class="hero-art" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="hero-card back"><span>STORE IDENTITY</span><strong>Shopify confirmed</strong><small>Merchant storefront signals</small></div><div class="hero-card front"><span>BUSINESS LOCATION</span><strong>India supported</strong><small>Address evidence on site</small></div><div class="art-center">IN</div></div>
+        </section>
+        <section class="metrics" aria-label="Snapshot summary"><article><span>VERIFIED STORES</span><strong id="metric-stores">—</strong><small>Both checks passed</small></article><article><span>CANDIDATE DOMAINS</span><strong id="metric-candidates">—</strong><small>After deduplication</small></article><article><span>FIELD COVERAGE</span><strong id="metric-coverage">—</strong><small>Across seven requested groups</small></article><article><span>SNAPSHOT DATE</span><strong class="metric-date">30 Sep <i>2026</i></strong><small>Historical observations</small></article></section>
+        <section class="directory section" id="directory" aria-labelledby="directory-title"><div class="section-heading"><div><span class="section-kicker">01 / THE DIRECTORY</span><h2 id="directory-title">Explore the stores<span class="count" id="directory-count">—</span></h2><p>Search the submitted snapshot. Open any card for contacts, social links, and source evidence.</p></div><span class="verified-key"><span>✓</span> Shopify + Indian business</span></div>
+          <div class="filter-panel"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search a store, domain, category, or state" aria-label="Search stores"></label><div class="filter-row"><label>Category<select id="category"><option value="">All categories</option></select></label><label>State<select id="state"><option value="">All states</option></select></label><label>Sort<select id="sort"><option value="name">Name A–Z</option><option value="coverage">Most complete</option><option value="newest">Newest observed</option></select></label><button id="clear" class="clear" type="button">Clear filters</button></div></div>
+          <div class="result-line"><span id="result-summary">Loading the snapshot…</span><span>Data collected 29–30 September 2026</span></div><div class="store-grid" id="store-grid" aria-live="polite"></div><div class="empty" id="empty" hidden><strong>No stores match these filters.</strong><p>Try another search or clear the filters.</p><button type="button" id="empty-clear" class="button ghost">Clear filters</button></div><div class="pagination"><button id="previous" type="button" aria-label="Previous page">← Previous</button><span id="page-label">—</span><button id="next" type="button" aria-label="Next page">Next →</button></div>
+        </section>
+        <section class="quality section" id="quality"><div class="section-heading"><div><span class="section-kicker">02 / DATA QUALITY</span><h2>What the data contains</h2><p>Missing values stay empty. Field coverage is measured only on the accepted stores.</p></div></div><div class="quality-layout"><div class="panel"><h3>Field completeness</h3><div id="coverage-bars"></div></div><div class="panel method-card"><span class="mini-label">WHAT “VERIFIED” MEANS</span><h3>Two decisions, two kinds of evidence.</h3><p>Shopify storefront signals and an Indian business address both had to be supported by merchant pages at collection time. Automated verification is not an independent accuracy audit.</p><a href="#method">Read the method <span>↗</span></a></div></div></section>
+        <section class="method section" id="method"><div class="section-heading"><div><span class="section-kicker">03 / METHOD & SOURCES</span><h2>How the list was built</h2><p>Candidate directories supplied leads. The pipeline checked each merchant site before acceptance.</p></div></div><div class="method-steps"><article><span>01</span><h3>Find candidates</h3><p>Collect publicly listed domains from Shopify editorial pages and store directories. Save source attribution for every candidate.</p></article><article><span>02</span><h3>Check the storefront</h3><p>Follow bounded, robots aware requests. Require corroborating Shopify identity, delivery, or commerce signals.</p></article><article><span>03</span><h3>Check Indian business</h3><p>Require address evidence on merchant pages. A .in domain, INR price, or shipping claim alone is insufficient.</p></article><article><span>04</span><h3>Extract and review</h3><p>Save contacts, socials, category, description, logo URL, state, missingness, and the evidence behind each field.</p></article></div><div class="sources panel"><h3>Candidate sources</h3><div id="source-list"></div><p class="source-footnote">A domain can appear in more than one source. Source totals are attribution counts, not unique store counts.</p></div></section>
+        <section class="downloads section" id="downloads"><div><span class="section-kicker">04 / DOWNLOADS</span><h2>Take the dataset.</h2><p>CSV and JSON hold the same 1,033 accepted records. Evidence, audit material, and the run report are published alongside them.</p></div><div class="download-grid"><a href="data/stores.csv" download><strong>Stores · CSV</strong><span>Spreadsheet ready ↗</span></a><a href="data/stores.json" download><strong>Stores · JSON</strong><span>Structured records ↗</span></a><a href="data/evidence.jsonl" download><strong>Evidence · JSONL</strong><span>Page level observations ↗</span></a><a href="data/run-report.json" download><strong>Run report · JSON</strong><span>Missingness and counts ↗</span></a><a href="data/audit-sample.json" download><strong>Audit sample · JSON</strong><span>For independent review ↗</span></a><a href="data/manifest.json" download><strong>Manifest · JSON</strong><span>Snapshot checksums ↗</span></a></div></section>
+        <footer><span>Rivyou research assignment · Snapshot 96232f7c659ca586</span><a href="https://github.com/Gshanmuk8/rivyou/blob/main/README.md" target="_blank" rel="noopener noreferrer">Full approach and local app ↗</a></footer>
+      </div>
+    </main>
+  </div>
+  <dialog id="detail"><div class="dialog-shell"><button class="dialog-close" type="button" id="detail-close" aria-label="Close store details">×</button><div id="detail-body"></div></div></dialog>
+</body>
+</html>

@@ -2,6 +2,8 @@
 
 A local pipeline and a browser workbench for finding Indian Shopify stores. The result file is **[outputs/stores.csv](outputs/stores.csv)**, with the same records in **[JSON](outputs/stores.json)**. Every accepted store has saved evidence for both Shopify and an Indian business address.
 
+**Public snapshot explorer:** [gshanmuk8.github.io/rivyou](https://gshanmuk8.github.io/rivyou/) · [GitHub repository](https://github.com/Gshanmuk8/rivyou). The published explorer is a read-only view of the checked-in snapshot; it supports search, filters, store details, evidence, and downloads. Collection and review controls run in the local Python workbench below.
+
 <!-- RESULT_START -->
 **1,033 automatically verified stores from 2,339 candidate domains, after deduplication.** Snapshot `96232f7c659ca586`, generated 2026-09-30T14:02:04.213712+00:00. Both required checks passed for every exported store. The result has not had an independent human audit.
 <!-- RESULT_END -->
@@ -28,6 +30,8 @@ py -3.12 -m venv .venv
 ```
 
 The app lets you import domains, collect pages, pause and resume runs, search/filter stores, inspect evidence, record review notes, and download results. A finished queue means the known domains have been processed. Import another source to continue; it does not mean the existing result was lost.
+
+The public explorer is built by `python scripts/build_site.py` and deployed from `site_dist/` with the GitHub Pages workflow in `.github/workflows/pages.yml`. The builder checks every snapshot checksum and record count, then makes one small evidence file per store so opening a record does not load the entire evidence archive. `site_dist/` is generated and ignored by Git. GitHub Pages hosts static files; the original pipeline remains runnable locally.
 
 ## What to submit
 
