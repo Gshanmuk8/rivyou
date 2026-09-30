@@ -1,0 +1,55 @@
+{
+  "run_id": "79f687dafd97",
+  "candidates": 121,
+  "outcomes": [
+    {
+      "previous_status": "review",
+      "previous_shopify": "conflict",
+      "new_status": "review",
+      "count": 1
+    },
+    {
+      "previous_status": "review",
+      "previous_shopify": "unconfirmed",
+      "new_status": "error",
+      "count": 1
+    },
+    {
+      "previous_status": "review",
+      "previous_shopify": "unconfirmed",
+      "new_status": "review",
+      "count": 48
+    },
+    {
+      "previous_status": "review",
+      "previous_shopify": "verified",
+      "new_status": "accepted",
+      "count": 13
+    },
+    {
+      "previous_status": "review",
+      "previous_shopify": "verified",
+      "new_status": "review",
+      "count": 27
+    },
+    {
+      "previous_status": "unreachable",
+      "previous_shopify": "unconfirmed",
+      "new_status": "accepted",
+      "count": 17
+    },
+    {
+      "previous_status": "unreachable",
+      "previous_shopify": "unconfirmed",
+      "new_status": "review",
+      "count": 6
+    },
+    {
+      "previous_status": "unreachable",
+      "previous_shopify": "unconfirmed",
+      "new_status": "unreachable",
+      "count": 8
+    }
+  ],
+  "decision": "Further enrichment excludes review records without verified Shopify evidence. All 50 such records in this pass remained unresolved. Retry unreachable homepages and add information pages for confirmed Shopify stores missing India evidence. This is a development analysis, not an independent accuracy estimate."
+}

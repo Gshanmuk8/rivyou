@@ -1,0 +1,19 @@
+{
+  "source": "eachspy",
+  "name": "EachSpy public India directory",
+  "source_url": "https://www.eachspy.com/shopify/stores-in-india/",
+  "download_url": "https://www.eachspy.com/shopify/stores-in-india/",
+  "retrieved_at": "2026-09-29T21:58:43.065158+00:00",
+  "content_hash": "17526af6c9244667881f60d4463f922aa94cff28064c6206acca9bcc909fd1ed",
+  "bytes": 134993,
+  "available_unique_urls": 40,
+  "offset": 0,
+  "limit": 100,
+  "selected": 40,
+  "result": {
+    "added": 36,
+    "duplicates": 4,
+    "errors": []
+  },
+  "note": "Only public domain names in Store tables are used as leads. Directory contacts, descriptions, logos and classifications are not copied into results."
+}

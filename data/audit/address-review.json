@@ -1,0 +1,676 @@
+{
+  "reviewer": "agent",
+  "scope": "Targeted review of saved address excerpts flagged by foreign-place or form-template words; not a random accuracy sample.",
+  "items": [
+    {
+      "id": "273cf277e26d35f7",
+      "url": "https://livingwords.in/",
+      "state": "Kerala",
+      "flagged": [
+        "Shop About Us Customer Reviews Track Shipment Frequently Asked Questions Refund/Exchanges Terms and Conditions Privacy Contact Us Customer Gallery Catholicism Christian Products Bible Verses For Today Everything Christian India's Larget Online Christian Platform. The store carries 5k+ products across various categories. Have served over 1+ lac customers since 2017. Customer Support Please e-mail for support care@livingwords.in WhatsApp: 8848117894 Kerala Technology Innovation Zone, Kinfra Hi-tech Park, HMT Colony. Kochi, Kerala. India. 683503 Mon-Sat (10-5pm) Facebook Instagram YouTube Newsletter Enter your e-mail → Sign up for our newsletter and be the first to know about coupons and special promotions."
+      ],
+      "all_addresses": [
+        "Shop About Us Customer Reviews Track Shipment Frequently Asked Questions Refund/Exchanges Terms and Conditions Privacy Contact Us Customer Gallery Catholicism Christian Products Bible Verses For Today Everything Christian India's Larget Online Christian Platform. The store carries 5k+ products across various categories. Have served over 1+ lac customers since 2017. Customer Support Please e-mail for support care@livingwords.in WhatsApp: 8848117894 Kerala Technology Innovation Zone, Kinfra Hi-tech Park, HMT Colony. Kochi, Kerala. India. 683503 Mon-Sat (10-5pm) Facebook Instagram YouTube Newsletter Enter your e-mail → Sign up for our newsletter and be the first to know about coupons and special promotions.",
+        "Business Address 'Living Words', Kerala Technology Innovation Zone, Kinfra Hi-tech Park.Kochi. Kerala. India. 683503 Registered Address Patmos Monastica Solutions Private Ltd, B 1/16 GV, Prakritti.Edachira. Kochi.Kerala. India.68203",
+        "Kerala Technology Innovation Zone, Kinfra Hi-tech Park, HMT Colony. Kochi, Kerala. India. 683503"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "Replay added a narrower excerpt of the same Kochi address. It confirms the existing Kerala business-establishment evidence. The form-word flag came from surrounding newsletter text.",
+      "evidence_hash": "69b43f2d29e4065e53a6fb71406bf398b45e0aace249c4045afe595045e475bf",
+      "source_urls": [
+        "https://livingwords.in/",
+        "https://livingwords.in/pages/contact-us",
+        "https://livingwords.in/pages/frequently-asked-questions",
+        "https://livingwords.in/pages/livingwords-in-about-us",
+        "https://livingwords.in/pages/privacy-policy",
+        "https://livingwords.in/pages/terms-an-conditions"
+      ]
+    },
+    {
+      "id": "873f9807dd8edae1",
+      "url": "https://frenchcrown.in/",
+      "state": "Gujarat",
+      "flagged": [
+        "Registered Office Addresses US Company Name: TEXFC LLC Registered US Office Address: 293 Whitehead Road, STE 10259, Hamilton, New Jersey 08619, United States Registered India Office Address: 3001 AB, RRTM PHASE 2 (India’s largest textile mall) Canal Road, Opposite Orbit 2, Saroli, Surat, Pincode - 395010 Gujarat, India",
+        "Canadian warehouse address : Unit 1110, 1275 Richmond road, K2B 8E3, Ottawa ON, Canada. Australian warehouse address 1 : 522 Bridge Road, Para Hill West, Adelaide - 5096, South Australia, Australia Australian warehouse address 2 : Unit 1/126 Vernon St, Nundah 4012, Queensland, Australia Indian warehouse address : 3001 AB, RRTM PHASE 2 (India’s largest textile mall) Canal Road, Opposite Orbit 2, Saroli, Surat, Pincode - 395010, Gujarat, India"
+      ],
+      "all_addresses": [
+        "Registered India Office Address: 3001 AB, RRTM PHASE 2 (India’s largest textile mall) Canal Road, Opposite Orbit 2, Saroli, Surat, Pincode - 395010, Gujarat, India",
+        "Registered Office Addresses US Company Name: TEXFC LLC Registered US Office Address: 293 Whitehead Road, STE 10259, Hamilton, New Jersey 08619, United States Registered India Office Address: 3001 AB, RRTM PHASE 2 (India’s largest textile mall) Canal Road, Opposite Orbit 2, Saroli, Surat, Pincode - 395010 Gujarat, India",
+        "3001 AB, RRTM PHASE 2 (India’s largest textile mall) Canal Road, Opposite Orbit 2, Saroli, Surat, Pincode - 395010 Gujarat, India",
+        "Canadian warehouse address : Unit 1110, 1275 Richmond road, K2B 8E3, Ottawa ON, Canada. Australian warehouse address 1 : 522 Bridge Road, Para Hill West, Adelaide - 5096, South Australia, Australia Australian warehouse address 2 : Unit 1/126 Vernon St, Nundah 4012, Queensland, Australia Indian warehouse address : 3001 AB, RRTM PHASE 2 (India’s largest textile mall) Canal Road, Opposite Orbit 2, Saroli, Surat, Pincode - 395010, Gujarat, India"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "Separate registered Indian office in Surat; overseas offices do not negate the supported Indian business establishment.",
+      "evidence_hash": "b0724cc070e16d15b2c6d8351ef3f3df25f98038819881090f2b8de745791a96",
+      "source_urls": [
+        "https://frenchcrown.in/",
+        "https://frenchcrown.in/pages/about-us",
+        "https://frenchcrown.in/pages/contact-us",
+        "https://frenchcrown.in/pages/privacy-policy",
+        "https://frenchcrown.in/pages/returns-exchanges",
+        "https://frenchcrown.in/pages/shipping-policy",
+        "https://frenchcrown.in/pages/terms-of-service"
+      ]
+    },
+    {
+      "id": "a52641d6712e56c1",
+      "url": "https://onlinebandhej.com/",
+      "state": "Rajasthan",
+      "flagged": [
+        "Khatushyam Fashion Private Limited KCPC Bandhani, Mahamandir Road, Ramleela Maidan, Near Parshuram Park, Sikar, Rajasthan 332001 Brand by : CA PIYUSH AGARWAL Phone :+91-9166259900 Email : support@onlinebandhej.com Facebook Pinterest Instagram YouTube Linkedin INFORMATION Become a Partner About Us Contact Us Return Policy Shipping Policy Privacy Policy Terms & Conditions Copyright FAQ's Blog Brand Story Career Site Map QUICK SHOP Sarees Lehenga Chunri pila Suits Dupatta Kurtis KCPC Legacy Blouse Bandhani saree Express Dispatch NEWSLETTER Enter your email to receive daily updates Email address Sign Up"
+      ],
+      "all_addresses": [
+        "Khatushyam Fashion Private Limited KCPC Bandhani, Mahamandir Road, Ramleela Maidan, Near Parshuram Park, Sikar, Rajasthan 332001 Brand by : CA PIYUSH AGARWAL Phone :+91-9166259900 Email : support@onlinebandhej.com Facebook Pinterest Instagram YouTube Linkedin INFORMATION Become a Partner About Us Contact Us Return Policy Shipping Policy Privacy Policy Terms & Conditions Copyright FAQ's Blog Brand Story Career Site Map QUICK SHOP Sarees Lehenga Chunri pila Suits Dupatta Kurtis KCPC Legacy Blouse Bandhani saree Express Dispatch NEWSLETTER Enter your email to receive daily updates Email address Sign Up",
+        "ADDRESS: Ramleela Maidan, Mahamandir Rd, near Parshuram Park, Chandpol, Sikar, Rajasthan 332001 PHONE : +91 91662 59900 EMAIL : khatushayamcreations@gmail.com",
+        "KCPC Bandhani, Mahamandir Road, Ramleela Maidan, Near Parshuram Park, Sikar, Rajasthan 332001",
+        "04 Discover KCPC Wear your heritage with pride Your invitation to experience the story. Step into one of our stores in Sikar or beyond to immerse yourself in our exquisite collection firsthand. Or browse effortlessly online—with easy nationwide delivery, secure shopping and styles for every occasion. Shop KCPC Contact us KCPC Bandhani · Mahamandir Road, Ramleela Maidan, Near Parshuram Park, Sikar, Rajasthan 332001"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "faa1b3a686c4d43405d012d3ba516bb01cd2b28440c6213bd17abb5ab5268f33",
+      "source_urls": [
+        "https://onlinebandhej.com/",
+        "https://onlinebandhej.com/pages/about-us",
+        "https://onlinebandhej.com/pages/contact-us",
+        "https://onlinebandhej.com/pages/privacy-policy-1",
+        "https://onlinebandhej.com/pages/return-policy",
+        "https://onlinebandhej.com/pages/shipping-policy",
+        "https://onlinebandhej.com/pages/terms-conditions"
+      ]
+    },
+    {
+      "id": "0dcef455710394be",
+      "url": "https://www.sleepsia.in/",
+      "state": "Delhi",
+      "flagged": [
+        "Sleepsia India Pvt Ltd Unit 102 (A,B,C,D), 1st floor, Tower C, Unitech Cyber Park, Sector-39, Gurgaon -122003 +91 93191-92254 cc@sleepsia.in Facebook Instagram YouTube CATEGORIES All Products Blogs Blogs Lounge New Launch Bedsheets Diffuser Combo INFORMATION Contact Us Terms & Conditions Privacy Policy Track Your Order Terms of Service Refund policy Shipping Policy FAQs USEFUL LINKS OEM Corporate Gifting Bulk Order Sleep Calculator Private Label Customize Your Orders Become a Affiliate NEWSLETTER SIGNUP Subscribe to our newsletter and get 10% off your first purchase Enter your email... Subscribe"
+      ],
+      "all_addresses": [
+        "Sleepsia India Pvt Ltd Unit 102 (A,B,C,D), 1st floor, Tower C, Unitech Cyber Park, Sector-39, Gurgaon -122003 +91 93191-92254 cc@sleepsia.in Facebook Instagram YouTube CATEGORIES All Products Blogs Blogs Lounge New Launch Bedsheets Diffuser Combo INFORMATION Contact Us Terms & Conditions Privacy Policy Track Your Order Terms of Service Refund policy Shipping Policy FAQs USEFUL LINKS OEM Corporate Gifting Bulk Order Sleep Calculator Private Label Customize Your Orders Become a Affiliate NEWSLETTER SIGNUP Subscribe to our newsletter and get 10% off your first purchase Enter your email... Subscribe",
+        "The fastest way to reach us is to send us a message . In case you have any queries/concerns regarding your order, please reach out to us on 93191-92254 Monday to Friday 10 AM - 6 PM You can also mail us at cc@sleepsia.in Registered Address: Sleepsia India Pvt Ltd 77-C, WP Block, Pitampura, Delhi, India - 110034",
+        "77-C, WP Block, Pitampura, Delhi, India - 110034",
+        "Sleepsia India Pvt Ltd Unit 102 (A,B,C,D), 1st floor, Tower C, Unitech Cyber Park, Sector-39, Gurgaon -122003"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "5264e94a6fddf109cf6ab02dcda9f0fe76f4a6fcccc969d64d40edcc06c9aa08",
+      "source_urls": [
+        "https://www.sleepsia.in/",
+        "https://www.sleepsia.in/pages/contact-us",
+        "https://www.sleepsia.in/pages/privacy-policy",
+        "https://www.sleepsia.in/pages/terms-conditions",
+        "https://www.sleepsia.in/policies/shipping-policy",
+        "https://www.sleepsia.in/policies/terms-of-service"
+      ]
+    },
+    {
+      "id": "bfd91f9e8a559fb0",
+      "url": "https://www.tigermarron.com/",
+      "state": "Haryana",
+      "flagged": [
+        "Corporate Office: Tiger Marron Private Limited B-6/7, Infocity, Sector-34, Gurgaon, Haryana, 122001 GST: 06AAGCT7091R1ZH UAE Wafi City, Dubai, United Arab Emirates"
+      ],
+      "all_addresses": [
+        "Consumer Care Contact No.: +91 9910026537 Consumer Care Address: B-6/7, Infocity, Sector-34, Gurgaon, Haryana, 122001 Consumer Care Email ID: support@tigermarron.com Country of Origin: India",
+        "Corporate Office: Tiger Marron Private Limited B-6/7, Infocity, Sector-34, Gurgaon, Haryana, 122001 GST: 06AAGCT7091R1ZH UAE Wafi City, Dubai, United Arab Emirates",
+        "INDIA Shop No.8, 32nd Avenue, NH 48, Sector 15 Part 2, Gurugram, Haryana 122001"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "c9833611c5871bb495fcc7a15611ea5b2ed82c726f30fa0da74d92cd1fdb1995",
+      "source_urls": [
+        "https://www.tigermarron.com/",
+        "https://www.tigermarron.com/pages/about-us",
+        "https://www.tigermarron.com/pages/contact-us",
+        "https://www.tigermarron.com/pages/privacy-policy",
+        "https://www.tigermarron.com/pages/return-policy",
+        "https://www.tigermarron.com/pages/shipping-and-delivery",
+        "https://www.tigermarron.com/pages/terms-conditions"
+      ]
+    },
+    {
+      "id": "d20f149dc14d58af",
+      "url": "https://www.mybatua.com/",
+      "state": "Delhi",
+      "flagged": [
+        "Email mybatua@mybatua.com Whatsapp +91-8826009522 Call +91-8826009522 Brand/Company MyBatua/Amrish Creations Head Office (Dubai) 18 16a 24 St - Ras Al Khor Industrial Area - Ras Al Khor Industrial Area 1 - Dubai - United Arab Emirates Factory (India) 254 Patparganj Industrial Estate, Delhi 110092, India"
+      ],
+      "all_addresses": [
+        "Email mybatua@mybatua.com Whatsapp +91-8826009522 Call +91-8826009522 Brand/Company MyBatua/Amrish Creations Head Office (Dubai) 18 16a 24 St - Ras Al Khor Industrial Area - Ras Al Khor Industrial Area 1 - Dubai - United Arab Emirates Factory (India) 254 Patparganj Industrial Estate, Delhi 110092, India",
+        "Factory (India) 254 Patparganj Industrial Estate, Delhi 110092, India",
+        "Should you have any questions about our privacy practices or this Privacy Policy, or if you would like to exercise any of the rights available to you, please call +91 88 2600 9522 or email us at support@mybatua.com or contact us at Amrish Creations, FIE Patparganj, 254, 110092 Delhi DL, India. For the purpose of applicable data protection laws, we are the data controller of your personal information."
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "Dubai head office plus the merchant own Delhi factory and Indian data-controller contact. Fits the documented Indian-establishment definition; not a claim of Indian ownership.",
+      "evidence_hash": "bd99eb3be43329ffdf7a6685886a90ffbf1e13ac0bdd6a31541dbac20fd6d71d",
+      "source_urls": [
+        "https://www.mybatua.com/policies/contact-information",
+        "https://www.mybatua.com/policies/privacy-policy"
+      ]
+    },
+    {
+      "id": "6e8c2c4161b07e28",
+      "url": "https://vastramay.com/",
+      "state": "Maharashtra",
+      "flagged": [
+        "59A, Matheswartala Road, 1st Floor, Opp. Kim Ling Restaurant, Scooter Gali, China Town, Kolkata, West Bengal 700046"
+      ],
+      "all_addresses": [
+        "59A, Matheswartala Road, 1st Floor, Opp. Kim Ling Restaurant, Scooter Gali, China Town, Kolkata, West Bengal 700046",
+        "Corporate Office Centrum Commercial Office, Plot No. C8, Opp. Raila Devi Lake, Near Satkar Hotel, Wagle Estate, Thane, Maharashtra 400604",
+        "Centrum Commercial Office, Plot No. C8, Opp. Raila Devi Lake, Near Satkar Hotel, Wagle Estate, Thane, Maharashtra 400604",
+        "These Terms of Service and any separate agreements under which we provide you Services will be governed by and construed in accordance with the laws of 9 Dhapa Road, near Gramin Bank, Mathpukur, Kolkata, West Bengal, IN 700101."
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "3fb91c902aaa93b6ac1859ed8ad7c332625136cde3a3664a209fda9ebab81ebd",
+      "source_urls": [
+        "https://vastramay.com/pages/contact-us",
+        "https://vastramay.com/pages/terms-conditions"
+      ]
+    },
+    {
+      "id": "88d85d60fcad7cd3",
+      "url": "https://aromamagic.com/",
+      "state": "Haryana",
+      "flagged": [
+        "Get in touch Blossom Kochhar Beauty Products Pvt. Ltd. Plot No. 334, Sector-3, IMT, Bawal, Haryana - 123501, India Plot No. 90A, Khasra No 68, Shiv Ganga Ind. Area Bhagwanpur, Roorkee, Haridwar, UK-247667, India Country of Origin - India Aromamagic Aromamagic About Us Aromatherapy Media Careers Meet the Directors Our Presence CSR Gifting Salon Services Booking Shop Shop All Products Essential Oil Hair Care Skin Care Body Care Facial Kits Life Care Combos & Regimes Support Support Track Order Privacy Policy Cancellation & Refund Policy Expert Consultation Affiliate Program Shipping & Delivery Policy Terms & Conditions Contact Us Stay Updated with Exciting Offers! Stay Updated with Exciting Offers! Subscribe to our newsletter to receive the latest news and exclusive offers directly in your inbox. Subscribe I agree with the terms and conditions . India Nepal SriLankan"
+      ],
+      "all_addresses": [
+        "Get in touch Blossom Kochhar Beauty Products Pvt. Ltd. Plot No. 334, Sector-3, IMT, Bawal, Haryana - 123501, India Plot No. 90A, Khasra No 68, Shiv Ganga Ind. Area Bhagwanpur, Roorkee, Haridwar, UK-247667, India Country of Origin - India Aromamagic Aromamagic About Us Aromatherapy Media Careers Meet the Directors Our Presence CSR Gifting Salon Services Booking Shop Shop All Products Essential Oil Hair Care Skin Care Body Care Facial Kits Life Care Combos & Regimes Support Support Track Order Privacy Policy Cancellation & Refund Policy Expert Consultation Affiliate Program Shipping & Delivery Policy Terms & Conditions Contact Us Stay Updated with Exciting Offers! Stay Updated with Exciting Offers! Subscribe to our newsletter to receive the latest news and exclusive offers directly in your inbox. Subscribe I agree with the terms and conditions . India Nepal SriLankan",
+        "Plot No. 334, Sector-3, IMT, Bawal, Haryana - 123501, India"
+      ],
+      "reviewer": "agent",
+      "decision": "hold",
+      "note": "Hold for review: the contact block lists Bawal, Haryana and Bhagwanpur/Roorkee/Haridwar, UK. No office precedence is explicit in that block; the extracted single state Haryana does not represent the ambiguity. India evidence remains supported, but this record is held from export until state is resolved.",
+      "evidence_hash": "1f9ef795eb9c4f633653172cf2d1012b316c4ee858bff61ce9a9810a97590985",
+      "source_urls": [
+        "https://aromamagic.com/",
+        "https://aromamagic.com/pages/about-us",
+        "https://aromamagic.com/pages/cancellation-return-policy",
+        "https://aromamagic.com/pages/contact-us",
+        "https://aromamagic.com/pages/privacy-policy",
+        "https://aromamagic.com/pages/terms-conditions",
+        "https://aromamagic.com/policies/terms-of-service"
+      ],
+      "location_reference": "https://haridwar.nic.in/about-district/"
+    },
+    {
+      "id": "af0017acb832aba3",
+      "url": "https://www.indianleathercraft.com/",
+      "state": "Maharashtra",
+      "flagged": [
+        "Indian Leather Craft Contact Info Email: info@indianleathercraft.com Phone: 00919987773578 WhatsApp: +919987773578 Address : Shop g14, link square mall, Bandra linking road Mumbai 400050. India Address: 169 madison ave, STE 11863 ny, NY, 10016 USA. Email: info@indianleathercraft.com"
+      ],
+      "all_addresses": [
+        "Indian Leather Craft Contact Info Email: info@indianleathercraft.com Phone: 00919987773578 WhatsApp: +919987773578 Address : Shop g14, link square mall, Bandra linking road Mumbai 400050. India Address: 169 madison ave, STE 11863 ny, NY, 10016 USA. Email: info@indianleathercraft.com",
+        "Physical address: Indian leather craft, shop G14,link square mall, Bandra linking road , oppo kfc , 400050 Mumbai MH, India",
+        "Indian leather craft, shop G14,link square mall, Bandra linking road , oppo kfc , 400050 Mumbai MH, India",
+        "Should you have any questions about our privacy practices or this Privacy Policy, or if you would like to exercise any of the rights available to you, please call or email us at skydweller316@gmail.com or contact us at Indian leather craft, shop G14,link square mall, Bandra linking road, oppo kfc, 400050 Mumbai MH, India.",
+        "[Shop g14, link sq. mall Bandra linking road, Mumbai 400050]"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "263219aa7b97dad8a33c84a95ea5a4481acc6d38f1a0dc722ac63bf354db5b1c",
+      "source_urls": [
+        "https://www.indianleathercraft.com/pages/contact-us",
+        "https://www.indianleathercraft.com/pages/privacy-policy-1",
+        "https://www.indianleathercraft.com/policies/contact-information",
+        "https://www.indianleathercraft.com/policies/privacy-policy",
+        "https://www.indianleathercraft.com/policies/terms-of-service"
+      ]
+    },
+    {
+      "id": "de4f867a561859c1",
+      "url": "https://lemillindia.com/",
+      "state": "Maharashtra",
+      "flagged": [
+        "Write us: customercare@lemill.in Call us: +91-8591907690 Address: 1st Floor, Pheroze Building, Chhatrapati Shivaji Maharaj Marg, Mumbai 400001 Enter your email Subscribe Instagram Facebook Twitter"
+      ],
+      "all_addresses": [
+        "Write us: customercare@lemill.in Call us: +91-8591907690 Address: 1st Floor, Pheroze Building, Chhatrapati Shivaji Maharaj Marg, Mumbai 400001 Enter your email Subscribe Instagram Facebook Twitter",
+        "1st floor, Pheroze Building, Above Indigo Deli, Colaba, Mumbai 400005",
+        "1st Floor, Pheroze Building, Chhatrapati Shivaji Maharaj Marg, Mumbai 400001"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "1eb2be51864e80e82115515c1ab3525e7248146db0794e6559b409511ec5c788",
+      "source_urls": [
+        "https://lemillindia.com/",
+        "https://lemillindia.com/pages/about-us",
+        "https://lemillindia.com/pages/contact-us",
+        "https://lemillindia.com/pages/shipping-returns",
+        "https://lemillindia.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "id": "2b273c06957084d7",
+      "url": "https://www.harlaarts.com/",
+      "state": "Telangana",
+      "flagged": [
+        "Company Office Harla Office 2nd Floor, Plot 26, Huda Enclave, Road No 70, Jubilee Hills, Hyderabad 500033 Ph. No: +91-9958674439 Email: support@harlaarts.com Menu Sale Shop Planters Shop by look Corporate Gifting About Us Blog Sign Up Enter your email below to be the first to know about offers, new collections and product launches. Links Contact Us Corporate Gifting Faq's Store Policies Shipping & Returns Returns and Cancellations Terms and Conditions Affiliates Privacy Policy"
+      ],
+      "all_addresses": [
+        "Company Office Harla Office 2nd Floor, Plot 26, Huda Enclave, Road No 70, Jubilee Hills, Hyderabad 500033 Ph. No: +91-9958674439 Email: support@harlaarts.com Menu Sale Shop Planters Shop by look Corporate Gifting About Us Blog Sign Up Enter your email below to be the first to know about offers, new collections and product launches. Links Contact Us Corporate Gifting Faq's Store Policies Shipping & Returns Returns and Cancellations Terms and Conditions Affiliates Privacy Policy",
+        "Harla Studio, Plot 26, Huda Enclave, Road No. 70, Jubilee Hills, Hyderabad-500033",
+        "Office Harla Office 2nd Floor, Plot 26, Huda Enclave, Road No 70, Jubilee Hills, Hyderabad 500033 Ph. No: +91-9958674439 Email: support@harlaarts.com"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "5c49b50a46cc079bd9207dce3087d35e465c1607a14a7b443eb129ff1e0201a5",
+      "source_urls": [
+        "https://www.harlaarts.com/",
+        "https://www.harlaarts.com/pages/about1",
+        "https://www.harlaarts.com/pages/contact-us",
+        "https://www.harlaarts.com/pages/privacy-policy",
+        "https://www.harlaarts.com/pages/returns-and-cancellations",
+        "https://www.harlaarts.com/pages/terms-and-conditions",
+        "https://www.harlaarts.com/policies/terms-of-service"
+      ]
+    },
+    {
+      "id": "f4eeac907274ac7d",
+      "url": "https://www.shopethnos.com/",
+      "state": "Delhi",
+      "flagged": [
+        "ABOUT ETHNOS ABOUT ETHNOS Ethnos is an online-only brand that brings you the best in Indian ethnic fashion. Our styles carefully blend the traditional and the modern thought process. Our products are made with love in India. We ship globally. WhatsApp (chat only): +91 89202 19596 Email: help@shopethnos.com US Office: Maahi LLC, 2108 N St, Sacramento, CA, USA 95816 India Office : Shopethnos LLP, Vishal Market, West Mukherjee Nagar, New Delhi - 110009 Quick Links Quick Links About Us Contact Us Stitching Shipping and Returns Customer Reviews Privacy Policy Terms of Service Refund policy Sign up and save Sign up and save Join the Ethnos family now and receive exclusive coupons and special offers in your inbox! Enter your email Subscribe Subscribe Instagram Facebook Pinterest TikTok"
+      ],
+      "all_addresses": [
+        "ABOUT ETHNOS ABOUT ETHNOS Ethnos is an online-only brand that brings you the best in Indian ethnic fashion. Our styles carefully blend the traditional and the modern thought process. Our products are made with love in India. We ship globally. WhatsApp (chat only): +91 89202 19596 Email: help@shopethnos.com US Office: Maahi LLC, 2108 N St, Sacramento, CA, USA 95816 India Office : Shopethnos LLP, Vishal Market, West Mukherjee Nagar, New Delhi - 110009 Quick Links Quick Links About Us Contact Us Stitching Shipping and Returns Customer Reviews Privacy Policy Terms of Service Refund policy Sign up and save Sign up and save Join the Ethnos family now and receive exclusive coupons and special offers in your inbox! Enter your email Subscribe Subscribe Instagram Facebook Pinterest TikTok",
+        "India Office: ShopEthnos LLP, West Mukherjee Nagar, New Delhi - India 110009. GST Number (Tax ID for India): 09AEPFS9835J1Z1",
+        "India Office : Shopethnos LLP, Vishal Market, West Mukherjee Nagar, New Delhi - 110009"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "c94209c749d729905d1fedd146e32cfcedbe21a2e73479512c01ad9de6b941d3",
+      "source_urls": [
+        "https://www.shopethnos.com/",
+        "https://www.shopethnos.com/pages/contact-us",
+        "https://www.shopethnos.com/pages/ethnos-the-essence-of-india",
+        "https://www.shopethnos.com/pages/shipping-and-returns",
+        "https://www.shopethnos.com/policies/privacy-policy",
+        "https://www.shopethnos.com/policies/terms-of-service"
+      ]
+    },
+    {
+      "id": "957f6a7f93f9ff38",
+      "url": "https://gosvish.com/",
+      "state": "Haryana",
+      "flagged": [
+        "Links Home Products Contact us About Us Svish Labs Track My Order Policies Search Refund Policy Shipping Policy Privacy Policy Terms of Service CONTACT : Asear Healthcare Pvt. Ltd Plot No 110, 1st Floor, Vijay Vihar Sector 30, Gurugram, Haryana. 122003 CUSTOMER CARE : +91-7829440077. EMAIL : care@gosvish.com Subscribe Enter your email below to be the first to know about new collections and product launches."
+      ],
+      "all_addresses": [
+        "Links Home Products Contact us About Us Svish Labs Track My Order Policies Search Refund Policy Shipping Policy Privacy Policy Terms of Service CONTACT : Asear Healthcare Pvt. Ltd Plot No 110, 1st Floor, Vijay Vihar Sector 30, Gurugram, Haryana. 122003 CUSTOMER CARE : +91-7829440077. EMAIL : care@gosvish.com Subscribe Enter your email below to be the first to know about new collections and product launches."
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "5b4edcc65121dfba6c11c698227f899b04aeba2df0433ab41c184e3037b08cc3",
+      "source_urls": [
+        "https://gosvish.com/",
+        "https://gosvish.com/pages/about-us"
+      ]
+    },
+    {
+      "id": "9992e63c24c807e6",
+      "url": "https://cothas.com/",
+      "state": "Karnataka",
+      "flagged": [
+        "17.2. We are registered in England and Wales under registration number number, and our registered office is at Cothas Coffee Co, 609-560/1,609-560/2 & 323 Part B, Jigani Bommasandra Link Road, Jigani Ind. Area, Anekal Taluk, Bengaluru – 560105"
+      ],
+      "all_addresses": [
+        "Cothas Coffee Co, 609-560/1,609-560/2 & 323 Part B,Jigani Bommasandra Link Road,Jigani Ind. Area, Anekal Taluk, Bengaluru – 560105",
+        "17.2. We are registered in England and Wales under registration number number, and our registered office is at Cothas Coffee Co, 609-560/1,609-560/2 & 323 Part B, Jigani Bommasandra Link Road, Jigani Ind. Area, Anekal Taluk, Bengaluru – 560105",
+        "17.3. Our principal place of business is at Cothas Coffee Co, 609-560/1,609-560/2 & 323 Part B, Jigani Bommasandra Link Road, Jigani Ind. Area, Anekal Taluk, Bengaluru – 560105."
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The terms contain an unfilled England/Wales registration template. The separate principal-place-of-business clause and merchant contact address consistently identify Jigani, Bengaluru, Karnataka. Indian establishment retained; the template is not used as evidence of incorporation.",
+      "evidence_hash": "d39f002e567608b9aa3523e4e0e07b045f9ff3f47fd9af17b3c41e8d3dfe2b36",
+      "source_urls": [
+        "https://cothas.com/pages/contact-us",
+        "https://cothas.com/policies/terms-of-service"
+      ]
+    },
+    {
+      "id": "d698cbad1dce972b",
+      "url": "https://givernutrition.com/",
+      "state": "Gujarat",
+      "flagged": [
+        "Shop Ultra Brain™ Brainstaq™ TruSleep™ Information Privacy Policy Terms & Conditions Return & Refund Policy Become An Affiliate Member Company Our Value Contact Us Blogs & Insights Track Your order USA : 18923 Grant Sequoia Lane, Katy TX, 77449 USA. India : 330, 3rd Floor Aryaman Arcade, Tower Rd, Surat, Gujarat 395003.",
+        "Our Offices Corporate Office : 330, 3rd Floor Aryaman Arcade, Tower Rd, Surat, Gujarat-395003, India. Registered Office : 18923 Grant Sequoia Lane, Katy TX, 77449 USA. Email: support@givernutrition.com Phone No: +91 79902 57007 Time : 9 AM to 5 PM IST For Corporate / Business Inquiry : marketing@givernutrition.com",
+        "USA : 18923 Grant Sequoia Lane, Katy TX, 77449 USA. India : 330, 3rd Floor Aryaman Arcade, Tower Rd, Surat, Gujarat 395003."
+      ],
+      "all_addresses": [
+        "Shop Ultra Brain™ Brainstaq™ TruSleep™ Information Privacy Policy Terms & Conditions Return & Refund Policy Become An Affiliate Member Company Our Value Contact Us Blogs & Insights Track Your order USA : 18923 Grant Sequoia Lane, Katy TX, 77449 USA. India : 330, 3rd Floor Aryaman Arcade, Tower Rd, Surat, Gujarat 395003.",
+        "Our Offices Corporate Office : 330, 3rd Floor Aryaman Arcade, Tower Rd, Surat, Gujarat-395003, India. Registered Office : 18923 Grant Sequoia Lane, Katy TX, 77449 USA. Email: support@givernutrition.com Phone No: +91 79902 57007 Time : 9 AM to 5 PM IST For Corporate / Business Inquiry : marketing@givernutrition.com",
+        "Corporate Office : 330, 3rd Floor Aryaman Arcade, Tower Rd, Surat, Gujarat-395003, India.",
+        "USA : 18923 Grant Sequoia Lane, Katy TX, 77449 USA. India : 330, 3rd Floor Aryaman Arcade, Tower Rd, Surat, Gujarat 395003.",
+        "Office No. 330, 3rd Floor, Aryaman Business Arcade, Tower Rd, Surat,Gujarat 395003"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "1a31d09b206c03014ced75c3f40c3412a1b32993389a168850dde8450340766e",
+      "source_urls": [
+        "https://givernutrition.com/",
+        "https://givernutrition.com/pages/contact",
+        "https://givernutrition.com/pages/privacy-policy",
+        "https://givernutrition.com/pages/return-refund-policy",
+        "https://givernutrition.com/pages/terms-condition"
+      ]
+    },
+    {
+      "id": "cc3265bdbfdfd826",
+      "url": "https://anyaonline.in/",
+      "state": "Tamil Nadu",
+      "flagged": [
+        "New Arrivals About ANYA Sarees Fabric Unstitched Salwar's Dupattas Men's Collections CAMPHORIA Lookbooks Return Policy Refund/Cancellation Privacy Policy Shipping Policy Terms of Use Refferal Code Blog Book an appointment Events Contact Us Sign up and save Sign up and save Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals. Enter your email Subscribe Instagram Facebook YouTube Twitter Pinterest LinkedIn Contact Contact COIMBATORE : ANYA , 8A, Lokamanya Street East, RS Puram, Coimbatore - 641002 Email : contact@anyaonline.in Phone : +91 96009 73736 +91 95008 61222 Whatsapp : +91 96773 44055 MADURAI : ANYA , 583, Karumbalai Main Road, K.K Nager, Madurai - 625020 Phone : +91 99447 82355 © 2026 anyaonline | Coimbatore, Tamil Nadu, India - 641002"
+      ],
+      "all_addresses": [
+        "New Arrivals About ANYA Sarees Fabric Unstitched Salwar's Dupattas Men's Collections CAMPHORIA Lookbooks Return Policy Refund/Cancellation Privacy Policy Shipping Policy Terms of Use Refferal Code Blog Book an appointment Events Contact Us Sign up and save Sign up and save Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals. Enter your email Subscribe Instagram Facebook YouTube Twitter Pinterest LinkedIn Contact Contact COIMBATORE : ANYA , 8A, Lokamanya Street East, RS Puram, Coimbatore - 641002 Email : contact@anyaonline.in Phone : +91 96009 73736 +91 95008 61222 Whatsapp : +91 96773 44055 MADURAI : ANYA , 583, Karumbalai Main Road, K.K Nager, Madurai - 625020 Phone : +91 99447 82355 © 2026 anyaonline | Coimbatore, Tamil Nadu, India - 641002",
+        "#Plot No: 432, 1st Floor, 9th Main Rd, ( Near to IOB Bank ), KK Nagar, MADURAI, Tamil Nadu 625020",
+        "📅 Dates: October 7th & 8th, 2026 ⏰ Time: 10:00 AM – 8:00 PM 239, Whites Rd, Express Estate, Royapettah, Chennai, Tamil Nadu 600014"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "An exhibition/event address is present, but separate merchant contact blocks show permanent Coimbatore and Madurai addresses in Tamil Nadu. Retain based on those business contacts.",
+      "evidence_hash": "40c2fca3a7bb0b704d07a5b070707472103edc163b4aa1f2120e73b701c94bd2",
+      "source_urls": [
+        "https://anyaonline.in/",
+        "https://anyaonline.in/pages/about-us",
+        "https://anyaonline.in/pages/book-an-appointment-1",
+        "https://anyaonline.in/pages/contact",
+        "https://anyaonline.in/pages/privacy-policy",
+        "https://anyaonline.in/pages/return-policy",
+        "https://anyaonline.in/pages/terms-of-use"
+      ]
+    },
+    {
+      "id": "3d447d563f1f4414",
+      "url": "https://justcorseca.com/",
+      "state": "Gujarat",
+      "flagged": [
+        "Reach out to us for any concerns Looking for a Support? Monday to Saturday: 10.30 AM to 7.00 PM 1800-270-3080 (Toll-Free Number) Do you have an inquiry for us? support@justcorseca.in Do you want to apply for a job? hr@damsongroup.com Corporate Office | India 301/302, Solitare building,11/12 Sunrise Park, Near Himalaya Mall, Vastrapur, Link Rd, Bodakdev, Ahmedabad, Gujarat 380054 Hong Kong 301, Kam on Building , 176A Queens Road Central Hong Kong (853)25249270, (852)25422340 (852)28543813 Fax Please fill the form below for any additional queries"
+      ],
+      "all_addresses": [
+        "Reach out to us for any concerns Looking for a Support? Monday to Saturday: 10.30 AM to 7.00 PM 1800-270-3080 (Toll-Free Number) Do you have an inquiry for us? support@justcorseca.in Do you want to apply for a job? hr@damsongroup.com Corporate Office | India 301/302, Solitare building,11/12 Sunrise Park, Near Himalaya Mall, Vastrapur, Link Rd, Bodakdev, Ahmedabad, Gujarat 380054 Hong Kong 301, Kam on Building , 176A Queens Road Central Hong Kong (853)25249270, (852)25422340 (852)28543813 Fax Please fill the form below for any additional queries",
+        "301/302, Solitare building,11/12 Sunrise Park, Near Himalaya Mall, Vastrapur, Link Rd, Bodakdev, Ahmedabad, Gujarat 380054"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "a60169c576b6ef97e9a9d7a14e232b4e1512bf9eec0c3bd83ec2fc5513f31691",
+      "source_urls": [
+        "https://justcorseca.com/pages/contact-us"
+      ]
+    },
+    {
+      "id": "ce44d9a6064de539",
+      "url": "https://diwansaheb.com/",
+      "state": "Delhi",
+      "flagged": [
+        "Contact Us Form Contact Details Store Locator Our Stores Shipping & Returns Policy Media/ Press Releases All Campaigns Customer Data Form Terms & Conditions Privacy Policy Sign up and save Sign up and save Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals. Enter your email Subscribe Subscribe Instagram Diwan Saheb Fashions Pvt. Ltd. Diwan Saheb Fashions Pvt. Ltd. A-56 Naraina Industrial Area (Next to Hyundai Service Center) Phase 1 New Delhi - 110028 India Email: info@diwansaheb.com"
+      ],
+      "all_addresses": [
+        "Contact Us Form Contact Details Store Locator Our Stores Shipping & Returns Policy Media/ Press Releases All Campaigns Customer Data Form Terms & Conditions Privacy Policy Sign up and save Sign up and save Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals. Enter your email Subscribe Subscribe Instagram Diwan Saheb Fashions Pvt. Ltd. Diwan Saheb Fashions Pvt. Ltd. A-56 Naraina Industrial Area (Next to Hyundai Service Center) Phase 1 New Delhi - 110028 India Email: info@diwansaheb.com",
+        "CORPORATE OFFICE DIWAN SAHEB FASHIONS PVT. LTD. A-56, Naraina Industrial Area Phase - 1, Naraina, New Delhi, Delhi 110028 Contact: +91-11-49486734 For Business Queries: info@diwansaheb.com",
+        "A-56, Naraina Industrial Area Phase - 1, Naraina, New Delhi, Delhi 110028",
+        "A-56 Naraina Industrial Area (Next to Hyundai Service Center) Phase 1 New Delhi - 110028 India Email: info@diwansaheb.com"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "52128b6920a2ebac0da3ed09a14a7c6a62a5fc7b9da6dc5c5ca1a93e21ea2d47",
+      "source_urls": [
+        "https://diwansaheb.com/",
+        "https://diwansaheb.com/pages/contact-us",
+        "https://diwansaheb.com/pages/contact-us-form",
+        "https://diwansaheb.com/pages/privacy-policy",
+        "https://diwansaheb.com/pages/shipping-returns",
+        "https://diwansaheb.com/pages/terms-and-conditions"
+      ]
+    },
+    {
+      "id": "e06d520c29318bc9",
+      "url": "https://sassoon.co/",
+      "state": "Delhi",
+      "flagged": [
+        "About Us Contact Us Bulk Queries Privacy Policy Return & Refund Terms & Conditions Terms of Service Blogs Sign up and save Sign up and save Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals. Enter your email Subscribe Subscribe Instagram Facebook YouTube Pinterest Snapchat LinkedIn CUSTOMER CARE CUSTOMER CARE Sassoon Fab International Pvt. Ltd. B-277, Upper Ground Floor Derawal Nagar, Delhi, 110009 sales@sassoon.co I info@sassoon.co +91-9560003236 MORE..."
+      ],
+      "all_addresses": [
+        "About Us Contact Us Bulk Queries Privacy Policy Return & Refund Terms & Conditions Terms of Service Blogs Sign up and save Sign up and save Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals. Enter your email Subscribe Subscribe Instagram Facebook YouTube Pinterest Snapchat LinkedIn CUSTOMER CARE CUSTOMER CARE Sassoon Fab International Pvt. Ltd. B-277, Upper Ground Floor Derawal Nagar, Delhi, 110009 sales@sassoon.co I info@sassoon.co +91-9560003236 MORE...",
+        "Sassoon Fab International Pvt. Ltd. B-277, Upper Ground Floor Derawal Nagar, Delhi, 110009 sales@sassoon.co I info@sassoon.co +91-9560003236 MORE...",
+        "Sassoon Fab International Pvt. Ltd. 2 Upper Ground Floor, Gujranwala Town, Part - II New Delhi – 110009, India. Tel : +91-11-42466620 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect."
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "f49e18dfeac24672959128374b1879cb974fad434553a0eb489a5b3934b06285",
+      "source_urls": [
+        "https://sassoon.co/",
+        "https://sassoon.co/pages/about-sassoon-fab",
+        "https://sassoon.co/pages/contact-us",
+        "https://sassoon.co/pages/privacy-policy",
+        "https://sassoon.co/pages/return-policy",
+        "https://sassoon.co/pages/terms-conditions"
+      ]
+    },
+    {
+      "id": "5d4b64ede384e992",
+      "url": "https://indigenoushoney.com/",
+      "state": "Gujarat",
+      "flagged": [
+        "Contact us Indigenous Honey Turritopsis Private Limited Serve No 343/2 and 343/4, Plot No 11, Madhav Park Industrial Area Tativela, Opp Podar International School Veraval Somnath Bypass Road, Veraval, Gir Somnath, Gujarat, 362266 Turritopsis LLC 30 N Gould St # 28960 Sheridan, WY 82801 (United States) Email: info@indigenoushoney.com Customer care: +919664798492 Customer care: +13076831171",
+        "Serve No 343/2 and 343/4, Plot No 11, Madhav Park Industrial Area Tativela, Opp Podar International School Veraval Somnath Bypass Road, Veraval, Gir Somnath, Gujarat, 362266 Turritopsis LLC 30 N Gould St # 28960 Sheridan, WY 82801 (United States) Email: info@indigenoushoney.com Customer care: +919664798492"
+      ],
+      "all_addresses": [
+        "Contact us Indigenous Honey Turritopsis Private Limited Serve No 343/2 and 343/4, Plot No 11, Madhav Park Industrial Area Tativela, Opp Podar International School Veraval Somnath Bypass Road, Veraval, Gir Somnath, Gujarat, 362266 Turritopsis LLC 30 N Gould St # 28960 Sheridan, WY 82801 (United States) Email: info@indigenoushoney.com Customer care: +919664798492 Customer care: +13076831171",
+        "Serve No 343/2 and 343/4, Plot No 11, Madhav Park Industrial Area Tativela, Opp Podar International School Veraval Somnath Bypass Road, Veraval, Gir Somnath, Gujarat, 362266 Turritopsis LLC 30 N Gould St # 28960 Sheridan, WY 82801 (United States) Email: info@indigenoushoney.com Customer care: +919664798492",
+        "Should you have any questions about our privacy practices or this Privacy Policy, or if you would like to exercise any of the rights available to you, please call or email us at info@indigenoushoney.com or contact us at Turritopsis private limited, Serve No 343/2 and 343/4, Plot No 11, Madhav Park Industrial Area Tativela, Opp Podar International School, Veraval Somnath Bypass Road, 362266 Veraval GJ, India."
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "566cb60fefde35a5355b0b7ba5b22bceb3e2b3283970b0eb9080dd7cb5a373d2",
+      "source_urls": [
+        "https://indigenoushoney.com/",
+        "https://indigenoushoney.com/pages/beekeeping-project-start-up-hobby-converts-to-a-honey-farming-business",
+        "https://indigenoushoney.com/pages/contact-us",
+        "https://indigenoushoney.com/policies/contact-information",
+        "https://indigenoushoney.com/policies/privacy-policy",
+        "https://indigenoushoney.com/policies/shipping-policy",
+        "https://indigenoushoney.com/policies/terms-of-service"
+      ]
+    },
+    {
+      "id": "3383ae8d2c862a78",
+      "url": "https://www.my3dselfie.com/",
+      "state": "Assam",
+      "flagged": [
+        "My3dselfie, Inc (US): 651 N Broad Street, Suite 206, Middletown, DE 19709, United States My3dselfie (Canada): 555 Industrial Drive, Milton, ON L9T 5E1, Canada My3dselfie Pvt Ltd (India): #318/2, Crystal Groove, Survey, Guwahati Assam, India, 781028"
+      ],
+      "all_addresses": [
+        "My3dselfie, Inc (US): 651 N Broad Street, Suite 206, Middletown, DE 19709, United States My3dselfie (Canada): 555 Industrial Drive, Milton, ON L9T 5E1, Canada My3dselfie Pvt Ltd (India): #318/2, Crystal Groove, Survey, Guwahati Assam, India, 781028"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "ce823d939b2c843fb8956879c223a9e9978c83d7731da0f7a594ca82bd309a6b",
+      "source_urls": [
+        "https://www.my3dselfie.com/pages/contact-us-1"
+      ]
+    },
+    {
+      "id": "7c285f3c6b813abe",
+      "url": "https://aakaar.com/",
+      "state": "Maharashtra",
+      "flagged": [
+        "contact us Unit 4, Raghuvanshi Mills, 2nd Floor, above Good Earth, Bldg. No. 11/12, Senapati Bapat Marg, Mumbai - 400013, Maharashtra, India Phone: (+91) 981.928.9629 (India) Phone: (+1) 646.847.8479 (USA) Email: care@aakaar.com",
+        "Unit 4, Raghuvanshi Mills, 2nd Floor, above Good Earth, Bldg. No. 11/12, Senapati Bapat Marg, Mumbai - 400013, Maharashtra, India Phone: (+91) 981.928.9629 (India) Phone: (+1) 646.847.8479 (USA) Email: care@aakaar.com"
+      ],
+      "all_addresses": [
+        "contact us Unit 4, Raghuvanshi Mills, 2nd Floor, above Good Earth, Bldg. No. 11/12, Senapati Bapat Marg, Mumbai - 400013, Maharashtra, India Phone: (+91) 981.928.9629 (India) Phone: (+1) 646.847.8479 (USA) Email: care@aakaar.com",
+        "Unit 4, Raghuvanshi Mills, 2nd Floor, above Good Earth, Bldg. No. 11/12, Senapati Bapat Marg, Mumbai - 400013, Maharashtra, India",
+        "Unit 4, Raghuvanshi Mills, 2nd Floor, above Good Earth, Bldg. No. 11/12, Senapati Bapat Marg, Mumbai - 400013, Maharashtra, India Phone: (+91) 981.928.9629 (India) Phone: (+1) 646.847.8479 (USA) Email: care@aakaar.com",
+        "Unit No. 4, Raghuvanshi Mills, 2nd Floor, above Good Earth, Senapati Bapat Marg, Lower Parel (W), Mumbai – 400013, Maharashtra, India"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "38e8610777f0d11d15786befb5efdf96196287065d3ae8b0542789bc6d6095dc",
+      "source_urls": [
+        "https://aakaar.com/",
+        "https://aakaar.com/pages/about-aakaar",
+        "https://aakaar.com/pages/contact-us",
+        "https://aakaar.com/pages/privacy-policy",
+        "https://aakaar.com/pages/returns-refund",
+        "https://aakaar.com/pages/terms-conditions",
+        "https://aakaar.com/policies/privacy-policy"
+      ]
+    },
+    {
+      "id": "8b702eb07f0a8afa",
+      "url": "https://jisboutique.com/",
+      "state": "Tamil Nadu",
+      "flagged": [
+        "Quick links Contact us Privacy policy Refund policy Shipping & Delivery Terms of service About us Order Status Terms of Service Refund policy Legal Metrology Guidelines For all Products sold by us : Manufactured, Marketed and Packaged by : JIS BOUTIQUE, No:5,Venkateswara Street, Lenin nagar Extn.,Ambattur, Chennai 600053,India Country of Origin - India Newsletter Enter your e-mail Sign up for our newsletter and be the first to know about coupons and special promotions. Contact @ jisboutique@gmail.com | +91 94455 30738 Our mission JIS BOUTIQUE has been delivering only the highest quality goods for over 11 years. We pride ourselves on fast, friendly service, a wide selection, and unbeatable prices."
+      ],
+      "all_addresses": [
+        "Quick links Contact us Privacy policy Refund policy Shipping & Delivery Terms of service About us Order Status Terms of Service Refund policy Legal Metrology Guidelines For all Products sold by us : Manufactured, Marketed and Packaged by : JIS BOUTIQUE, No:5,Venkateswara Street, Lenin nagar Extn.,Ambattur, Chennai 600053,India Country of Origin - India Newsletter Enter your e-mail Sign up for our newsletter and be the first to know about coupons and special promotions. Contact @ jisboutique@gmail.com | +91 94455 30738 Our mission JIS BOUTIQUE has been delivering only the highest quality goods for over 11 years. We pride ourselves on fast, friendly service, a wide selection, and unbeatable prices.",
+        "Registered Office: JIS BOUTIQUE No:5,Venkateswara Street, Lenin nagar Extn.,Ambattur, Chennai,Tamilnadu-600053 INDIA Mobile:+91 99629 15468 Please fill the below form & We'll get back to you as soon as we can",
+        "JIS BOUTIQUE No:5,Venkateswara Street, Lenin nagar Extn.,Ambattur, Chennai,Tamilnadu-600053 INDIA",
+        "JIS BOUTIQUE, No:5,Venkateswara Street, Lenin nagar Extn.,Ambattur, Chennai 600053,India Country of Origin - India",
+        "These Terms of Service and any separate agreements whereby we provide you Services shall be governed by and construed in accordance with the laws of No:5,Venkateswara Street,Lenin nagar Extn., Chennai Tamil Nadu IN 600053."
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "b7a7b79204fce4a71919e05339a3fcce2e9219209f31f51693ad2bb40be60e9b",
+      "source_urls": [
+        "https://jisboutique.com/",
+        "https://jisboutique.com/pages/about-us",
+        "https://jisboutique.com/pages/contact-us",
+        "https://jisboutique.com/pages/privacy-policy",
+        "https://jisboutique.com/pages/shipping-delivery",
+        "https://jisboutique.com/pages/terms-of-service",
+        "https://jisboutique.com/policies/terms-of-service"
+      ]
+    },
+    {
+      "id": "b3a714469c38892a",
+      "url": "https://woodentwist.com/",
+      "state": "Uttar Pradesh",
+      "flagged": [
+        "About Us Our Story Blog Wooden Twist UAE Zikrziba Help Contact Us Wooden Twist App Download PARTNERS Become a Franchisee Join Influencer Community Careers Wooden Twist Hauz Kheri Road Saharanpur, U.P 247001, India Call us at +919084302132 Email: help@woodentwist.com"
+      ],
+      "all_addresses": [
+        "About Us Our Story Blog Wooden Twist UAE Zikrziba Help Contact Us Wooden Twist App Download PARTNERS Become a Franchisee Join Influencer Community Careers Wooden Twist Hauz Kheri Road Saharanpur, U.P 247001, India Call us at +919084302132 Email: help@woodentwist.com",
+        "Address - Shiraz Handicrafts Hauz Kheri Road Saharanpur, 247001, Uttar Pradesh You can also mail us at help@woodentwist.com or call us at +91-9084302132"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "24f8f667c881277159a1251979a53d3070d19c0dc8829d04ca69f4bc436da4e1",
+      "source_urls": [
+        "https://woodentwist.com/",
+        "https://woodentwist.com/pages/about-us",
+        "https://woodentwist.com/pages/get-in-touch",
+        "https://woodentwist.com/policies/privacy-policy",
+        "https://woodentwist.com/policies/refund-policy",
+        "https://woodentwist.com/policies/shipping-policy",
+        "https://woodentwist.com/policies/terms-of-service"
+      ]
+    },
+    {
+      "id": "fb9dbfb89d3bcc63",
+      "url": "https://in.ajmal.com/",
+      "state": "Maharashtra",
+      "flagged": [
+        "Subscribe for special offers, newsletters and become a part ofour movement Your Email Sign up Shop by Category Shop by Category Men’s Perfumes Women’s Perfumes Unisex Perfumes Attar Bakhoor & Dakhoon Gift Sets New Arrivals Customer Service Customer Service Contact Us Order Tracking Shipping & Delivery Return & Refund Policy Perfume Care Tips Order Return Legal & Policies Legal & Policies Privacy Policy Terms & Conditions Our Journey Dubai Our Journey Dubai Our Journey Dubai CONTACT US CONTACT US Timings: Monday to Friday / 10am to 6pm Email: info@ajmalindia.com Call: +91 9930063303 1, Aerocity, Ground Floor,Office no: 02/03, Safed Pul,Sakinaka, Andheri Kurla Rd,Andheri East, Mumbai400072. Facebook Instagram YouTube Twitter Pinterest Subscribe for special offers, newsletters and become a part ofour movement Your Email Payment methods © 2026, Ajmal Perfumes India Made with ❤️ by Tech it!"
+      ],
+      "all_addresses": [
+        "Subscribe for special offers, newsletters and become a part ofour movement Your Email Sign up Shop by Category Shop by Category Men’s Perfumes Women’s Perfumes Unisex Perfumes Attar Bakhoor & Dakhoon Gift Sets New Arrivals Customer Service Customer Service Contact Us Order Tracking Shipping & Delivery Return & Refund Policy Perfume Care Tips Order Return Legal & Policies Legal & Policies Privacy Policy Terms & Conditions Our Journey Dubai Our Journey Dubai Our Journey Dubai CONTACT US CONTACT US Timings: Monday to Friday / 10am to 6pm Email: info@ajmalindia.com Call: +91 9930063303 1, Aerocity, Ground Floor,Office no: 02/03, Safed Pul,Sakinaka, Andheri Kurla Rd,Andheri East, Mumbai400072. Facebook Instagram YouTube Twitter Pinterest Subscribe for special offers, newsletters and become a part ofour movement Your Email Payment methods © 2026, Ajmal Perfumes India Made with ❤️ by Tech it!",
+        "Office Address: 1, Aerocity, Ground Floor, Office no: 02/03, Safed Pul, Sakinaka, Andheri Kurla Rd, Andheri East, Mumbai 400072.",
+        "Legal Name- AJMAL & SONS GST Address- GROUND FLOOR, 99 CD, -, MOHAMMED ALI ROAD, MOHAMMED ALI ROAD, Mumbai City, Maharashtra, 400003",
+        "AJMAL & SONS, a company incorporated in India with its registered address at: GROUND FLOOR, 99 CD, MOHAMMED ALI ROAD, Mumbai City, Maharashtra, 400003, (together referred to as \"we\", \"us\", or \"our\") take your privacy very seriously. This Privacy Statement explains what personal information we collect, how and when it is collected, what we use it for now and how we will use it in the future, and details of the circumstances in which we may disclose it to third parties."
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "0df2c21d69c5ac5a6aa713f17810cd36c016ff6946782b61467c34ead2a40f92",
+      "source_urls": [
+        "https://in.ajmal.com/",
+        "https://in.ajmal.com/pages/contact",
+        "https://in.ajmal.com/pages/privacy-policy",
+        "https://in.ajmal.com/pages/return-refund-cancellation-policy",
+        "https://in.ajmal.com/pages/shipping-policy",
+        "https://in.ajmal.com/pages/terms-conditions"
+      ]
+    },
+    {
+      "id": "8cdbba29d30da9e4",
+      "url": "https://fansarmy.in/",
+      "state": "Rajasthan",
+      "flagged": [
+        "LOCATION Dispatch - 24-A New India Colony, Mandi RoadBari-Sadri, 312403 Rajasthan Registered - 1, ASHRAM ROAD, AZAD PURA, BARI SADRI, Chittorgarh, Rajasthan, 312403 Mandi RoadBari-Sadri, 312403 Rajasthan Email :support@fansarmy.in Facebook Instagram INFORMATION About Us Contact Us Bulk Order CUSTOMER SERVICES Shipping Policy Return and Replace Policy Cancellation Policy Return and Replace Portal Terms of Service Privacy Policy NEWSLETTER Enter your email to receive daily news and get 20% off coupon for all items. Subscribe Almost completed... just need to confirm your email address. To complete the process, please click the link in the email we just sent you. Something went wrong, please try after some times."
+      ],
+      "all_addresses": [
+        "LOCATION Dispatch - 24-A New India Colony, Mandi RoadBari-Sadri, 312403 Rajasthan Registered - 1, ASHRAM ROAD, AZAD PURA, BARI SADRI, Chittorgarh, Rajasthan, 312403 Mandi RoadBari-Sadri, 312403 Rajasthan Email :support@fansarmy.in Facebook Instagram INFORMATION About Us Contact Us Bulk Order CUSTOMER SERVICES Shipping Policy Return and Replace Policy Cancellation Policy Return and Replace Portal Terms of Service Privacy Policy NEWSLETTER Enter your email to receive daily news and get 20% off coupon for all items. Subscribe Almost completed... just need to confirm your email address. To complete the process, please click the link in the email we just sent you. Something went wrong, please try after some times.",
+        "ADDRESS: 24-A New India Colony,Mandi Road Bari-Sadri, 312403 Rajasthan",
+        "Dispatch - 24-A New India Colony, Mandi RoadBari-Sadri, 312403 Rajasthan",
+        "Registered - 1, ASHRAM ROAD, AZAD PURA, BARI SADRI, Chittorgarh, Rajasthan, 312403 Mandi RoadBari-Sadri, 312403 Rajasthan"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "1944d0ce944b82f77c0d08abaf2e04ae9241008c1322c75d5c9b5e710d78c941",
+      "source_urls": [
+        "https://fansarmy.in/",
+        "https://fansarmy.in/pages/about-us",
+        "https://fansarmy.in/pages/contact-us",
+        "https://fansarmy.in/policies/privacy-policy",
+        "https://fansarmy.in/policies/refund-policy",
+        "https://fansarmy.in/policies/terms-of-service"
+      ]
+    },
+    {
+      "id": "dafc4d8ff428f754",
+      "url": "https://giftsoflove.in/",
+      "state": "Haryana",
+      "flagged": [
+        "Quick Links Quick Links About Us Shipping and Delivery Policy Return/Refund Policy Contact Us Stores Useful Info Useful Info Cancellation Policy Privacy Policy Law and Jurisdiction Terms and Conditions Disclaimer Policy Customer Care Customer Care Email: online@giftsoflove.in Call: +91 9810965535.Gifts of Love Retail Pvt Ltd - 551, 1st & 2nd Floor Udyog Vihar Phase V, Gurugram, Haryana 122016. India Sign up and save Sign up and save Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals. Enter your email Subscribe Subscribe Instagram Facebook"
+      ],
+      "all_addresses": [
+        "Quick Links Quick Links About Us Shipping and Delivery Policy Return/Refund Policy Contact Us Stores Useful Info Useful Info Cancellation Policy Privacy Policy Law and Jurisdiction Terms and Conditions Disclaimer Policy Customer Care Customer Care Email: online@giftsoflove.in Call: +91 9810965535.Gifts of Love Retail Pvt Ltd - 551, 1st & 2nd Floor Udyog Vihar Phase V, Gurugram, Haryana 122016. India Sign up and save Sign up and save Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals. Enter your email Subscribe Subscribe Instagram Facebook",
+        "Email: online@giftsoflove.in Call: +91 9810965535.Gifts of Love Retail Pvt Ltd - 551, 1st & 2nd Floor Udyog Vihar Phase V, Gurugram, Haryana 122016. India"
+      ],
+      "reviewer": "agent",
+      "decision": "retain_india_evidence",
+      "note": "The saved excerpts include a concrete Indian merchant address. The flag comes from a separate overseas location, neighbourhood name, phone label or surrounding newsletter text; it does not replace the India address evidence.",
+      "evidence_hash": "4836ffe9612a6b19bc485cca82c2f4f2824aabd657025a46bc980504fd83211e",
+      "source_urls": [
+        "https://giftsoflove.in/",
+        "https://giftsoflove.in/pages/about-us",
+        "https://giftsoflove.in/pages/contact-us",
+        "https://giftsoflove.in/pages/privacy-policy",
+        "https://giftsoflove.in/pages/return-refund-policy",
+        "https://giftsoflove.in/pages/shipping-and-delivery-policy",
+        "https://giftsoflove.in/pages/terms-and-condtions"
+      ]
+    }
+  ],
+  "snapshot_id": "96232f7c659ca586"
+}

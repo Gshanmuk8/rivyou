@@ -1,0 +1,6 @@
+# Snapshot checksums cover exact bytes. Do not translate newlines on checkout.
+outputs/* -text
+# CSV uses intentional RFC-style CRLF; preserve bytes without whitespace noise.
+outputs/*.csv whitespace=cr-at-eol
+# Preserve the upstream font licence texts verbatim.
+src/rivyou/static/brand/*-OFL.txt -whitespace

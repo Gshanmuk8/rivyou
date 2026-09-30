@@ -1,0 +1,21 @@
+{
+  "source": "dukaan",
+  "name": "TeamDukaan public performance list · commit b9be3b56",
+  "source_url": "https://github.com/TeamDukaan/performance/blob/b9be3b56f962538ba153ab196ba3ac5014561c56/shopify%20stores%20-%20shopify.csv",
+  "download_url": "https://raw.githubusercontent.com/TeamDukaan/performance/b9be3b56f962538ba153ab196ba3ac5014561c56/shopify%20stores%20-%20shopify.csv",
+  "retrieved_at": "2026-09-29T21:52:42.031813+00:00",
+  "imported_at": "2026-09-29T23:29:21.186881+00:00",
+  "used_saved_source": true,
+  "content_hash": "c1983ecc91d6593de75e9d3926bb4efe81a49423d484c936e9a167a7e68c89a1",
+  "bytes": 256631,
+  "available_unique_urls": 9762,
+  "offset": 1800,
+  "limit": 500,
+  "selected": 500,
+  "result": {
+    "added": 498,
+    "duplicates": 2,
+    "errors": []
+  },
+  "note": "Historical public URL leads, not current platform/country proof. No explicit repository license was found. Raw source is cached locally, not redistributed as our dataset."
+}

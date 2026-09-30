@@ -1,0 +1,15 @@
+{
+  "snapshot_id": "96232f7c659ca586",
+  "generated_at": "2026-09-30T14:02:04.213712+00:00",
+  "records": 1033,
+  "schema_version": "1.0",
+  "files": {
+    "stores.csv": "24422c2d449b3aa9f7b9fb4f450e242a00737aec331789086211fc1d97eec254",
+    "stores.json": "5a61f2d8b4ddc6f356c8aaf0a05abdd88b397502a437260eab7d607bb3eb0410",
+    "evidence.jsonl": "a00e2123fd3f575708187e56b7e906499ff11039f5db46604589dabf7c6a0d8c",
+    "run-report.json": "d3f0a9c752836c25ea5de2819267d389e90217cd919fdb02017a12b211ad8ffc",
+    "source-manifest.json": "d9c737e3c24a2c803a9e8b4087b968d1036e6294c295a994630c90314c617d6e",
+    "unresolved.json": "abe34dfbdd1517669a62a022a7861391cdb4236843d83f6aa68692ada3da0884",
+    "audit-sample.json": "5d1c192f8193915e6c4f8ded19c29c8a18cf475848d47820964d6a59c7c6792f"
+  }
+}

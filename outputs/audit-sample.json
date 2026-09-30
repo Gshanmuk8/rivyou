@@ -1,0 +1,1361 @@
+{
+  "generated_at": "2026-09-30T14:02:04.552283+00:00",
+  "seed": 20260929,
+  "population": 1033,
+  "sample_size": 150,
+  "population_hash": "a6a23ddbfaf8c091a8de0cd73784b5985f68244e01002315271dee6188a515da",
+  "note": "Unreviewed sample. No accuracy claim is implied.",
+  "items": [
+    {
+      "store_id": "c0a7264049db15e9",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "92b6a59c5c4cc031",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "ecb76e88912850dc",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "4ac5e77147857d78",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "de4f867a561859c1",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "7843930c49f8d2a5",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "b973b626631e12bf",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "f665b49e8ab07d0c",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "2295e53290cd5445",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "04edef75bf55d459",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "4eaf485f745b52ad",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "7f14eacf8ca7132b",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "92e134ba6e78647d",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "951c6841d4cf55c4",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "6c7eeac05c3a1e47",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "e60b5984b6ee490f",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "75549ae780041ff7",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "7246436fc38de493",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "faa401f7b44a200b",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "7ea39997a8e69c1a",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "7296757db6b3222b",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "a88c44da023859c7",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "21eb81b2865b7f8f",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "ff539eb721303d04",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "cbbacbaa070b0308",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "af5a94957ce2d84a",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "c4f1f3b1876f5a52",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "0dbb3ed2a8a0814a",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "eb87f3dbfa6107f0",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "2d0ef2de8a9203e7",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "7c285f3c6b813abe",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "6e6aaedf2c425c55",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "1fd049c4ca92efea",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "2d2c9ac178baf69a",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "40ea756342f17795",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "a18b4dfe2edf56af",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "4f90f390a4d3fec4",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "7db4f945fbbb24e0",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "e9552356a2c9becd",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "24ac4f74086c69df",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "d06342b21c6ceb46",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "01e7c515a5eb329b",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "212dedd88577df91",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "7f24481e2af5d2b6",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "cf14b9f4d54d4867",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "873f9807dd8edae1",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "fb8d41f933c050aa",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "d31f05cae8748259",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "74a24d4c62bbe15a",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "af0017acb832aba3",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "b17cf489fc78e1d5",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "faaf21680b952b60",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "5d4b64ede384e992",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "bbcdbb18cce96b90",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "fede16db976d63a7",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "326f790441b3cd0b",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "6e4e104a246f152e",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "70758d5d177d63d3",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "2d962fce5192ee29",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "a6bb1b63c76d5ab8",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "0c25fe502fa0e17e",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "9109f79abb03098a",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "5e8dd5dd401f2159",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "057e78e0c8b0bce6",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "6aca3c4adf2a2e84",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "41fbcef0d8b56833",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "bf6d72d52ac8395c",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "8191768fb05bd984",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "e06d520c29318bc9",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "c9b233bd0b7dce3a",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "8fa14f84afa3cbc1",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "3e6904574c47d91e",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "538666f473c35136",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "6e8c2c4161b07e28",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "bb11eed913e3826f",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "c9fdc7743fc2da2b",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "9f6b6d6956c68572",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "7c8ea20762c60c76",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "ad29d39c3b87c8c8",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "f90f8a7f419de8d3",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "3192437848c7fb82",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "0456f0b4356dc7c5",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "2ce18aa95606a626",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "283ab4c794b5c6bf",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "fd41654188d78484",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "b3a714469c38892a",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "8b1b172d70fdb087",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "d84b0c3857bbacdd",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "2c63a6dc149c4206",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "175354f739d9f59a",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "1e2005c050b9e0be",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "9ddcd6036a7e24ea",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "e984c01b4d0fe189",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "712d1ce5be900e3b",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "11c7c899724fd422",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "104090b5c9f60e90",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "298e035867efcb19",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "3f548c81fc092dfc",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "54eafbeb822f3ff7",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "3a07bd46d11f4058",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "a18bcc3aae2b0dc0",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "ca6eaed6a18d0ad1",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "305ead480f511c25",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "282e045a49c46ab9",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "218fdc2077f63d89",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "4c95f9016effb411",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "a086e592cd314c82",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "d001bc04a60da8a2",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "685ae3b90ce664fa",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "80d13096671f4a83",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "85091ee11e9b00be",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "4ccaa1129fbd45ce",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "ceb44de0aa5475c5",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "cca4333b540ebdfb",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "9a10f6b4143f95e9",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "bdbce1b00b4ccdbb",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "9d5a78f300ed2ae3",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "265be08663fec11a",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "9aa3d38bb8b3dbf0",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "fd1400e4c58e8dab",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "17f99b0376ade345",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "ae64800a4d00eb0f",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "ebf83f814729bfd4",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "cb5f283a26755ea6",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "6d6081242cbf5f17",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "246176ac2f46ec4b",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "a0a0e1dbd458d021",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "bfd91f9e8a559fb0",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "cd1a567cd06cb57e",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "4c95d6d0c3fe1bf6",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "88c419cd875b4bd3",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "7c49924abd680818",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "bfb5fc9602434313",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "87fd596b86e17167",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "8158dbad7c63d00d",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "19f13de3c581e383",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "94db6b9c8634ea52",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "1011a859ce4a4105",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "2639a8001fa2b498",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "c1ce2f2c808bfc06",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "eab3aa8229b13c57",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "44b2b5f2d201d5f2",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "81c6312976f41968",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "3c13f0d9c3798759",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "1f644a074a038f87",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "fe1d31402d9cef27",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "db27c73dca01c088",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "b2c03dcad940f211",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "7a63576928efcb53",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    },
+    {
+      "store_id": "44149e9a5b2f784c",
+      "shopify_and_india": null,
+      "logo": null,
+      "state": null,
+      "contacts": null,
+      "reviewer": null,
+      "notes": ""
+    }
+  ],
+  "snapshot_id": "96232f7c659ca586"
+}
