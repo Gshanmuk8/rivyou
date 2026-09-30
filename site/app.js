@@ -23,7 +23,7 @@ const state = { stores: [], report: null, query: "", category: "", region: "", s
 function logo(store) {
   const letter = nameOf(store).slice(0, 1).toUpperCase();
   const url = safeUrl(store.logo_url);
-  return `<span class="store-logo"><span>${escapeHtml(letter)}</span>${url ? `<img src="${escapeHtml(url)}" alt="" loading="lazy" referrerpolicy="no-referrer">` : ""}</span>`;
+  return `<span class="store-logo" data-fallback="${escapeHtml(letter)}">${url ? `<img src="${escapeHtml(url)}" alt="" loading="lazy" referrerpolicy="no-referrer">` : escapeHtml(letter)}</span>`;
 }
 
 function filteredStores() {
@@ -122,7 +122,10 @@ document.addEventListener("click", (event) => {
   if (button) openDetail(button.dataset.id);
 });
 document.addEventListener("error", (event) => {
-  if (event.target instanceof HTMLImageElement && event.target.closest(".store-logo")) event.target.remove();
+  if (event.target instanceof HTMLImageElement && event.target.closest(".store-logo")) {
+    const parent = event.target.closest(".store-logo");
+    parent.textContent = parent.dataset.fallback;
+  }
 }, true);
 $("#detail-close").addEventListener("click", () => $("#detail").close());
 $("#detail").addEventListener("click", (event) => { if (event.target === $("#detail")) $("#detail").close(); });
